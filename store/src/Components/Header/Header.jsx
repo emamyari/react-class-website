@@ -3,7 +3,7 @@ import './Header.css'
 export const Header = () => {
   return (
     <div>
-    <nav class="navbar navbar-findcond navbar-fixed-top">
+    <nav class="navbar navbar-findcond  ">
         <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
